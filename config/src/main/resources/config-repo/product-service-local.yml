@@ -1,4 +1,4 @@
 server:
   port: 19083
 
-message: "product-service-local message"
+message: "first update : product-service-local message1"
